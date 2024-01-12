@@ -1,4 +1,4 @@
-package com.itheima.domain;
+package com.fan.domain;
 
 public class Book {
     private Integer id;
